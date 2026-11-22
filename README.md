@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:075985,100:06B6D4&height=220&section=header&text=CLOUDOPS%20LAB&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SAMCLOUD%20%7C%20CLOUD%20%26%20INFRASTRUCTURE%20ENGINEERING&descAlignY=60&descSize=14" width="100%"/>
+<img src="./assets/cloudops-header.svg" width="100%" alt="SAMCLOUD CloudOps Lab"/>
 
 # ☁️ SAMCLOUD | CloudOps-Lab
 

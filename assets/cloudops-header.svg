@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="340" viewBox="0 0 1200 340">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="55%" stop-color="#075985"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+
+  <circle cx="1030" cy="100" r="180"
+          fill="#22D3EE" opacity=".08"/>
+  <circle cx="1080" cy="270" r="130"
+          fill="#FFFFFF" opacity=".05"/>
+
+  <path d="M0 285 Q300 230 600 290 T1200 250"
+        fill="none" stroke="#67E8F9"
+        stroke-width="2" opacity=".25"/>
+
+  <text x="65" y="92"
+        fill="#67E8F9" font-size="22"
+        font-family="Arial" letter-spacing="7">
+    SAMCLOUD • ENGINEERING
+  </text>
+
+  <text x="65" y="180"
+        fill="#FFFFFF" font-size="66"
+        font-weight="bold" font-family="Arial">
+    CLOUDOPS LAB
+  </text>
+
+  <rect x="68" y="205" width="300" height="4"
+        rx="2" fill="url(#line)"/>
+
+  <text x="68" y="253"
+        fill="#E0F2FE" font-size="23"
+        font-family="Arial">
+    CLOUD • LINUX • NETWORKING • AUTOMATION
+  </text>
+
+  <text x="68" y="295"
+        fill="#BAE6FD" font-size="17"
+        font-family="Arial" letter-spacing="3">
+    LEARN  /  BUILD  /  MONITOR  /  IMPROVE
+  </text>
+
+  <text x="1080" y="175"
+        fill="#FFFFFF" font-size="70"
+        text-anchor="middle" font-family="Arial">
+    ☁
+  </text>
+</svg>
